@@ -20,11 +20,11 @@ a:hover {
  * Base structure
  */
 html,
-body {
+body {font-familiy:changa;
   height: 100%;
   background-color: #000;
 }
-body {font-familiy:changa;
+body {
   display: -ms-flexbox;
   display: flex;
   color: #fff;
